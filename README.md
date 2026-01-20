@@ -1,14 +1,16 @@
 **Certification Map**
 - [Microsoft Certification Mapping](https://arch-center.azureedge.net/Credentials/Certification-Poster_en-us.pdf)
 
+**SC-900**
+- [SC-900 MS Course](https://learn.microsoft.com/en-us/training/courses/sc-900t00#course-syllabus)
+
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-**Youtube Series**
-- [Destination Certification - CISSP MindMaps](https://www.youtube.com/playlist?list=PLZKdGEfEyJhLd-pJhAD7dNbJyUgpqI4pu)
-- [Pete Zerger - CISSP Exam Cram Full Course (All 8 Domains)](https://www.youtube.com/watch?v=_nyZhYnCNLA)
-- [Pete Zerger - CISSP Exam Cram - 2024 Addendum](https://www.youtube.com/watch?v=XZr2wLKdoVc)
+**SC-900**
+- [SC-900 MS Course](https://learn.microsoft.com/en-us/training/courses/sc-900t00#course-syllabus)
+
 
 **CISSP Mindset**
 - [50 CISSP Practice Questions. Master the CISSP Mindset](https://www.youtube.com/watch?v=qbVY0Cg8Ntw)
