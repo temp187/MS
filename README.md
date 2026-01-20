@@ -1,3 +1,10 @@
+**Certification Map**
+- [Certification Mapping](https://arch-center.azureedge.net/Credentials/Certification-Poster_en-us.pdf)
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 **Youtube Series**
 - [Destination Certification - CISSP MindMaps](https://www.youtube.com/playlist?list=PLZKdGEfEyJhLd-pJhAD7dNbJyUgpqI4pu)
 - [Pete Zerger - CISSP Exam Cram Full Course (All 8 Domains)](https://www.youtube.com/watch?v=_nyZhYnCNLA)
